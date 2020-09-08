@@ -1,0 +1,13 @@
+C:\Users\Eren\source\repos\ResimEditor\ResimEditor\bin\Debug\ResimEditor.exe.config
+C:\Users\Eren\source\repos\ResimEditor\ResimEditor\bin\Debug\ResimEditor.exe
+C:\Users\Eren\source\repos\ResimEditor\ResimEditor\bin\Debug\ResimEditor.pdb
+C:\Users\Eren\source\repos\ResimEditor\ResimEditor\obj\Debug\ResimEditor.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\ResimEditor\ResimEditor\obj\Debug\ResimEditor.Form1.resources
+C:\Users\Eren\source\repos\ResimEditor\ResimEditor\obj\Debug\ResimEditor.Properties.Resources.resources
+C:\Users\Eren\source\repos\ResimEditor\ResimEditor\obj\Debug\ResimEditor.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\ResimEditor\ResimEditor\obj\Debug\ResimEditor.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\ResimEditor\ResimEditor\obj\Debug\ResimEditor.exe
+C:\Users\Eren\source\repos\ResimEditor\ResimEditor\obj\Debug\ResimEditor.pdb
+C:\Users\Eren\source\repos\ResimEditor\ResimEditor\obj\Debug\ResimEditor.Form2.resources
+C:\Users\Eren\source\repos\ResimEditor\ResimEditor\obj\Debug\ResimEditor.Form3.resources
+C:\Users\Eren\source\repos\ResimEditor\ResimEditor\obj\Debug\ResimEditor.Form4.resources
